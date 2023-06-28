@@ -1,7 +1,7 @@
 <p align="center">
 	<picture>
 		<source
-			srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djedcurtis&theme=nord_bright"
+			srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djedcurtis&theme=tokyonight"
 			media="(prefers-color-scheme: dark)"
 		/>
 		<source
