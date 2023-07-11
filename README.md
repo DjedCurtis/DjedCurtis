@@ -10,7 +10,7 @@
 		/>
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djedcurtis" />
 	</picture>
-	<picture>
+	<!-- <picture>
 		<source
 			srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djedcurtis&theme=tokyonight"
 			media="(prefers-color-scheme: dark)"
@@ -31,7 +31,7 @@
 			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djedcurtis" />
-	</picture>
+	</picture> -->
 	<picture>
 		<source
 			srcset="https://github-readme-streak-stats.herokuapp.com/?user=djedcurtis&hide_border=true&card_width=338&theme=tokyonight"
@@ -43,7 +43,7 @@
 		/>
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=djedcurtis&hide_border=true&card_width=338" />
 	</picture>
-	<picture>
+	<!-- <picture>
 		<source
 			srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=djedcurtis&theme=tokyonight"
 			media="(prefers-color-scheme: dark)"
@@ -64,10 +64,10 @@
 			media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 		/>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djedcurtis&show_icons=true" />
-	</picture>
+	</picture> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   	<picture>
 		<source
 			srcset="https://github-readme-stats.vercel.app/api?username=djedcurtis&show_icons=true&theme=tokyonight"
@@ -79,7 +79,7 @@
 		/>
 		<img src="https://github-readme-stats.vercel.app/api?username=djedcurtis&show_icons=true" />
 	</picture>
-</p>
+</p> -->
 
 <!-- <p align="center">
   	<a href="https://github.com/djedcurtis">
